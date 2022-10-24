@@ -1,5 +1,5 @@
 '''Given a valid mathematical expression in the form of a string, You are supposed to return true if the given expression contains redundant brackets else return False.
-The given string only contains ')','(','+','-','*','/' and lower case english letters. 
+The given string only contains ')','(','+','-','*','/' and lower case english letters. '''
 
 def findRedundantBrackets(s:str):
     length=len(s)
